@@ -1,0 +1,31 @@
+
+
+.search{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items:center;
+    height:100px;
+    width:300px;
+}
+.searchP{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:white;
+}
+
+.btn{
+    margin:10px;
+    background-color:#757475;
+    transform: scale(1.2);
+    color:#fff;
+    width:100px;
+    text-align: center;
+    
+}
+
+
+
+
